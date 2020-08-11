@@ -1,0 +1,38 @@
+{
+  "name": "KITASemuanya",
+  "short_name": "KITASemuanya",
+  "start_url": "https://www.kitasemuanya.online/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-l6XrEklELq4/XzIBx9pE7-I/AAAAAAAACQw/8v3faAXM1qUjG8mlzB180Uvm-1yKA8UUwCLcBGAsYHQ/s48/KSOnline.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-l6XrEklELq4/XzIBx9pE7-I/AAAAAAAACQw/8v3faAXM1qUjG8mlzB180Uvm-1yKA8UUwCLcBGAsYHQ/s72/KSOnline.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-l6XrEklELq4/XzIBx9pE7-I/AAAAAAAACQw/8v3faAXM1qUjG8mlzB180Uvm-1yKA8UUwCLcBGAsYHQ/s96/KSOnline.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-l6XrEklELq4/XzIBx9pE7-I/AAAAAAAACQw/8v3faAXM1qUjG8mlzB180Uvm-1yKA8UUwCLcBGAsYHQ/s144/KSOnline.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-l6XrEklELq4/XzIBx9pE7-I/AAAAAAAACQw/8v3faAXM1qUjG8mlzB180Uvm-1yKA8UUwCLcBGAsYHQ/s168/KSOnline.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-l6XrEklELq4/XzIBx9pE7-I/AAAAAAAACQw/8v3faAXM1qUjG8mlzB180Uvm-1yKA8UUwCLcBGAsYHQ/s192/KSOnline.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-l6XrEklELq4/XzIBx9pE7-I/AAAAAAAACQw/8v3faAXM1qUjG8mlzB180Uvm-1yKA8UUwCLcBGAsYHQ/s512/KSOnline.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
